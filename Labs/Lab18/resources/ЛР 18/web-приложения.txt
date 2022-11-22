@@ -1,0 +1,7 @@
+нечетные варианты:				
+		http://shop.bugred.ru/user/register/index
+		
+
+четные варианты:
+		http://legacy.webappsecurity.com/
+		
