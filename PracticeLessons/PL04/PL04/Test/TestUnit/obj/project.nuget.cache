@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ThIFZbFGsBwUpz4lCx+CgC89vXvOz1V2P3wLjPbbmJsE0SQomV5Q696J4kGQEgwAMTRYB6ZVzXP6qGT18Y2bBQ==",
+  "dgSpecHash": "HEr+rKHk3E8Zv/3uz3ru6nkj3kNU0NCiPSaK3oZjw80zgwpYg8vzKveW7ck1FkKjY0XYZPmKc/yu6IJXjaG5nw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\snglrtycrvtureofspce\\Desktop\\Test\\TestUnit\\TestUnit.csproj",
+  "projectFilePath": "C:\\Users\\snglrtycrvtureofspce\\Documents\\snglrtycrvtureofspce\\GitHub\\software-testing\\PracticeLessons\\PL04\\PL04\\Test\\TestUnit\\TestUnit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\snglrtycrvtureofspce\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\snglrtycrvtureofspce\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
