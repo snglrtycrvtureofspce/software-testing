@@ -11,8 +11,8 @@ namespace TestUnit // NUnit
             MatrixDoubles = new double[4, 4]
            {
                 {3,6,1,8 },
-                {8,0,5,2 },
-                {9,3,6,5 },
+                {8,0,51,2 },
+                {9,39,6,5 },
                 {2,3,7,20 },
            };
         }
